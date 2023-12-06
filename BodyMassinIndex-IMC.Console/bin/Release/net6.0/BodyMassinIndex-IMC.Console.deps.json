@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BodyMassinIndex-IMC.Console/1.0.0": {
+        "dependencies": {
+          "BodyMassIndex.Models": "1.0.0"
+        },
+        "runtime": {
+          "BodyMassinIndex-IMC.Console.dll": {}
+        }
+      },
+      "BodyMassIndex.Models/1.0.0": {
+        "runtime": {
+          "lib/net6.0/BodyMassIndex.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BodyMassinIndex-IMC.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BodyMassIndex.Models/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7acuBfwWHIdUtiNGNPmrptyW/k4BjK9F2FhtYU9Vue8V0s0jnSHJOy2Yl4IeL++oAG2P75kEdgf/cWc37ygDOg==",
+      "path": "bodymassindex.models/1.0.0",
+      "hashPath": "bodymassindex.models.1.0.0.nupkg.sha512"
+    }
+  }
+}

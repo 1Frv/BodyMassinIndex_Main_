@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BodyMassIndex.Models</id>
+    <version>1.0.0</version>
+    <authors>BodyMassIndex.Models</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Francisco Vazquez\Pictures\BodyMassinIndex_Main_\BodyMassIndex.Models\bin\Debug\net6.0\BodyMassIndex.Models.dll" target="lib\net6.0\BodyMassIndex.Models.dll" />
+  </files>
+</package>

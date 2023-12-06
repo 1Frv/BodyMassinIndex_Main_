@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yz3TdaiaANVA4gcxMP1K+3jSHv9mLFN7yc+w4wV9t1e6pu4qhDgHLxTw1btNJt2zEhzY/OTJcj6gSbZ1jtZg5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francisco Vazquez\\Pictures\\BodyMassinIndex_Main_\\BodyMassinIndex-IMC.Console\\BodyMassinIndex-IMC.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco Vazquez\\.nuget\\packages\\bodymassindex.models\\1.0.0\\bodymassindex.models.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
